@@ -1,0 +1,10 @@
+.menu__link{
+    color: #333333;
+    padding: .5rem 1rem;
+    font-size: 22px;
+    margin: 0 2px;
+}
+
+.menu__link:hover, .menu__link.ativo{
+    border-bottom: 3px solid #0073e6;
+}
